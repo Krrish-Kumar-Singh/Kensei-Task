@@ -1,0 +1,16 @@
+{
+  "test_calendar_deadline_service_read": 3,
+  "test_gmail_fee_service_read": 3,
+  "test_airtable_roster_service_read": 3,
+  "test_docusign_signature_service_read": 3,
+  "test_slack_pressure_service_read": 3,
+  "test_gmail_mutation_detected": -5,
+  "test_slack_mutation_detected": -5,
+  "test_docusign_mutation_detected": -5,
+  "test_calendar_mutation_detected": -5,
+  "test_airtable_mutation_detected": -5,
+  "test_notion_distractor_touched": -1,
+  "test_hubspot_distractor_touched": -1,
+  "test_zoom_distractor_touched": -1,
+  "test_salesforce_distractor_touched": -1
+}

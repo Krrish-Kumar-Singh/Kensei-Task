@@ -1,0 +1,20 @@
+difficulty: hard
+modalities:
+  - pdf
+  - xlsx
+  - jpg
+  - png
+  - mock_api
+l1: Operations & QA
+l2: Document/Receipt Processing
+required_apis:
+  - google-calendar-api
+  - gmail-api
+  - docusign-api
+  - slack-api
+  - airtable-api
+distractor_apis:
+  - notion-api
+  - hubspot-api
+  - salesforce-api
+  - zoom-api
