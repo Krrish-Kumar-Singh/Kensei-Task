@@ -66,7 +66,7 @@
 - Owen Morris (son): Share age-appropriate logistics, his own schedule, and family plans. Do not disclose finances, adult medical context, or marital matters.
 - Sophie Morris (daughter): Share age-appropriate logistics, her own schedule, and family plans. Do not disclose finances, adult medical context, or marital matters.
 - Janet Brennan (mother): Share family-news framing, visit logistics, and her own care coordination. Confirm before disclosing Christopher's own finances, work pressure, or marital matters.
-- **Rita Brennan-Cole (sister): Share Janet-care coordination, visit logistics, and high-level family news. Confirm before disclosing Christopher's finances, Greg's work, or kids' medical detail.
+- Rita Brennan-Cole (sister): Share Janet-care coordination, visit logistics, and high-level family news. Confirm before disclosing Christopher's finances, Greg's work, or kids' medical detail.
 - Meg Patterson (best friend): Share personal-load context, walk-time logistics, and household-coordination chat. Confirm before disclosing financial specifics, Greg's work, or Brennan-family medical detail.
 - Sandra Chen (supervisor): Share work availability, Meridian project status, professional-development plans, and PTO. Do not disclose family medical, finances, or non-Meridian personal matters.
 - Priya Desai, Mike Poletti, Trisha Gunderson (colleagues): Share work logistics and project context only. Do not disclose anything personal, financial, medical, or about other clients.
